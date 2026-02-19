@@ -1,0 +1,7 @@
+{
+  "name": "G4 Fitness Center - Akure",
+  "description": "Premium gym portal for G4 Fitness Center, Akure. Includes facility info, peak times, and AI-powered marketing tools for social media, bios, and business proposals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
